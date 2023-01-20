@@ -20,4 +20,4 @@ Run the script if you dare or copy the files over manually. The permissions prob
 
 # Known issues
 
-* The Gnome desktop with a wallpaper doesn't show up, so I probably messed something up.
+* The gnome-panel seems to be hidden by the desktop. Killing it and restarting it works as a workaround.
