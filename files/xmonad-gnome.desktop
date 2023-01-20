@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=xmonad-gnome
+NoDisplay=true
+Comment=improved dynamic tiling window manager
+Exec=xmonad-gnome
+X-GNOME-WMName=xmonad-gnome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
