@@ -4,14 +4,14 @@ This is a script to install xmonad with Gnome session manager in Ubuntu. I have 
 
 This is basically untested. It might work. Use at your own risk. It's up here for my own reference.
 
-Ubuntu version: 22.04 jammy
+Ubuntu version: 24.04 noble
 
 # Pre-reqs
 
 You probably need at least xmonad and some things to compile xmonad:
 
 ```
-sudo apt-get install xmonad libx11-dev libxinerama-dev libxext-dev libxft-dev libxrandr-dev libxss-dev
+sudo apt-get install xmonad libx11-dev libxinerama-dev libxext-dev libxft-dev libxrandr-dev libxss-dev libghc-data-default-dev
 ```
 
 # Installation
