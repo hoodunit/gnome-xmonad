@@ -1,8 +1,8 @@
 # Xmonad + Gnome
 
-This is a script to install xmonad with Gnome session manager in Ubuntu. I have for years relied on the generous charity of @gekkio with [gnome-session-xmonad](https://github.com/Gekkio/gnome-session-xmonad), but he has moved on and I have not, so here we are.
+This is a script to install xmonad with Gnome session manager in Ubuntu. I have for years relied on the charity of @gekkio with [gnome-session-xmonad](https://github.com/Gekkio/gnome-session-xmonad), but he has moved on and I have not, so here we are.
 
-This is basically untested. It might work. Use at your own risk. It's up here for my own reference.
+This has been tested once, when I set up my system. It might work. Use at your own risk - it is here for my own reference.
 
 Ubuntu version: 24.04 noble
 
