@@ -21,3 +21,8 @@ Run the script if you dare or copy the files over manually. The permissions prob
 # Known issues
 
 * The gnome-panel seems to be hidden by the desktop. Killing it and restarting it works as a workaround.
+
+# Note
+
+The session.conf file is copied from:
+/usr/lib/systemd/user/gnome-session@gnome-flashback-metacity.target.d/session.conf
